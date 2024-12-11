@@ -6,6 +6,7 @@ body
 }
 #cabecera
 {
+    background: url("../imagens/Capsula.jpg");
     background: #33A;
     color: white;
 }
